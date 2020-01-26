@@ -5,6 +5,6 @@
 
 - Proposer de créer des vidéos de valorisation de nos **espaces d'apprentissages innovants expliquant l'usage** et/ou **nouveaux matériels**, tant pour nous que pour les autres.
 
-- Création du Blog <https://campuslab.wp.imt.fr/>
+- Création du Blog <https://campuslab.wp.imt.fr/> : C'est fait !
 
 -
